@@ -1,0 +1,82 @@
+{
+  "model_type": "scikit-learn Tuned Pipeline (PCA + Random Forest)",
+  "initial_untuned_accuracy": 0.6222,
+  "tuned_test_accuracy": 0.9411,
+  "tuning_improvement_abs_percent": 31.89,
+  "tuning_improvement_rel_percent": 51.25,
+  "detailed_report": {
+    "airplane": {
+      "precision": 0.8539325842696629,
+      "recall": 0.8444444444444444,
+      "f1-score": 0.8491620111731844,
+      "support": 90.0
+    },
+    "automobile": {
+      "precision": 0.9117647058823529,
+      "recall": 0.6888888888888889,
+      "f1-score": 0.7848101265822784,
+      "support": 90.0
+    },
+    "bird": {
+      "precision": 0.9888888888888889,
+      "recall": 0.9888888888888889,
+      "f1-score": 0.9888888888888889,
+      "support": 90.0
+    },
+    "cat": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 90.0
+    },
+    "deer": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 90.0
+    },
+    "dog": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 90.0
+    },
+    "frog": {
+      "precision": 0.9456521739130435,
+      "recall": 0.9666666666666667,
+      "f1-score": 0.9560439560439561,
+      "support": 90.0
+    },
+    "horse": {
+      "precision": 0.967741935483871,
+      "recall": 1.0,
+      "f1-score": 0.9836065573770492,
+      "support": 90.0
+    },
+    "ship": {
+      "precision": 0.7685185185185185,
+      "recall": 0.9222222222222223,
+      "f1-score": 0.8383838383838383,
+      "support": 90.0
+    },
+    "truck": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 90.0
+    },
+    "accuracy": 0.9411111111111111,
+    "macro avg": {
+      "precision": 0.9436498806956338,
+      "recall": 0.9411111111111111,
+      "f1-score": 0.9400895378449196,
+      "support": 900.0
+    },
+    "weighted avg": {
+      "precision": 0.9436498806956337,
+      "recall": 0.9411111111111111,
+      "f1-score": 0.9400895378449196,
+      "support": 900.0
+    }
+  }
+}

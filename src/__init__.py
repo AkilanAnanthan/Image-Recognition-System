@@ -1,0 +1,3 @@
+"""
+Image Recognition System Package
+"""
